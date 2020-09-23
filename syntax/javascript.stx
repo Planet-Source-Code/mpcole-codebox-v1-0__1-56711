@@ -1,0 +1,15 @@
+[Options]
+ProperCase=0
+CommentChar=//
+
+[Colors]
+Comments=32768
+Strings=8388736
+Operators=255
+Keywords=16711680
+KeywordsAlt=16711680
+
+[Syntax]
+Keywords=abstract Applet applets Area Area Array boolean break Button byte byvalue case catch char Checkbox class const continue Date default delete do document double else extends FileUpload false final finally float for Form forms Frame frames function goto hashtable Hidden history if image images implements import in instanceof int interface Link links location long Math MimeType mimeTypes native navigator new null options package Password Plugin plugins private protected public Radio Reset return Select short static String string Submit super switch synchronized Text Textarea this threadsafe throw throws transient true try typeof url var vector void while window with Anchor anchors
+KeywordsAlt= 
+Operators= ; + - * / < > & |

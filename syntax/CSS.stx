@@ -1,0 +1,18 @@
+[Options]
+ProperCase=0
+KeywordsBold=0
+CommentChar=//
+CommentStart=/*
+CommentEnd=*/
+
+[Colors]
+Comments=32768
+Strings=0
+Operators=0
+Keywords=16711680
+KeywordsAlt=8388736
+
+[Syntax]
+Keywords=absolute-size background background-attachment background-color background-image background-repeat border border-bottom border-bottom-width border-color border-left border-left-width border-right border-right-width border-style border-top border-top-width border-width clear color cursor display family-name filter float font font-family font-size font-variant font-weight generic-family height length letter-spacing line-height list-style list-style-image list-style-position list-style-type margin margin-bottom margin-left margin-right margin-top padding padding-bottom padding-left padding-right padding-top percentage position relative-size strength text-align text-decoration text-indent text-transform url vertical-align white-space width word-spacing font-style scrollbar-base-color scrollbar-track-color scrollbar-highlight-color scrollbar-shadow-color scrollbar-darkshadow-color scrollbar-3dlight-color scrollbar-arrow-color scrollbar-face-color body input select option textarea #
+KeywordsAlt=A H1 H2 H3 H4 H5 H6 TD P TR TABLE TH HR
+Operators= 

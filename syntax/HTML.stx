@@ -1,0 +1,11 @@
+[Options]
+CommentStart=<!--
+CommentEnd=-->
+
+[Colors]ColorHTML(.SelText)
+Comments=32768
+Strings=8388736
+Operators=0
+Keywords=8388608
+KeywordsAlt=8388608
+Scripts=128

@@ -1,0 +1,15 @@
+[Options]
+ProperCase=1
+CommentChar=//
+
+[Colors]
+Comments=32768
+Strings=0
+Operators=255
+Keywords=8323072
+KeywordsAlt=8323072
+
+[Syntax]
+Keywords=Byte ByteBool Cardinal Integer LongBool Longint Shortint Smallint True Word WordBool absolute abstract array asm assembler automated begin boolean case cdecl class const constructor default destructor dispid dispinterface do downto dynamic else end except export exports external false far file finalization finally for forward function goto if implementation index inherited initialization inline interface interrupt label library message name near nil nodefault object of out override packed pascal private procedure program property protected public published raise read readonly real record register repeat resident resourcestring safecall set stdcall stored string stringresource text then threadvar to try type unit until uses var virtual while with write writeonly
+KeywordsAlt= 
+Operators= ABS ARCTAN CHR COS DISPOSE EOF EOLN EXP GET LN NEW ODD ORD PACK PAGE PRED PUT READ READLN RESET REWRITE ROUND SIN SQRT SUCC TRUNC UNPACK WRITE WRITELN

@@ -1,0 +1,16 @@
+[Options]
+ProperCase=0
+KeywordsBold=1
+CommentChar=//
+
+[Colors]
+Comments=32768
+Strings=8388736
+Operators=255
+Keywords=16711680
+KeywordsAlt=16711680
+
+[Syntax]
+Keywords=define elif else endif error if ifdef ifndef include line pragma undef asm auto break case catch cdecl char class const continue default delete do double elif else enum extern FALSE far float for friend goto huge if inline int interrupt long near new NULL operator pascal private protected public register return short signed sizeof static struct switch template this throw TRUE try typedef union unsigned virtual void volatile warn while yield main explicit bool mutable thread namespace noreturn typeid typename const_cast reinterpret_cast using uuid dllexport dllimport static_cast wmain dynamic_cast type_def interface BOOL HRESULT
+KeywordsAlt= 
+Operators= 
