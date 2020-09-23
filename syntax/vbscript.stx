@@ -1,0 +1,15 @@
+[Options]
+ProperCase=1
+CommentChar='
+
+[Colors]
+Comments=32768
+Strings=0
+Operators=0
+Keywords=8388608
+KeywordsAlt=8388608
+
+[Syntax]
+Keywords=Access AddressOf Alias And As Attribute Base Binary ByRef ByVal CVErr Call CallByName Case Close Compare Comparison Const Date Declare DefBool DefByte DefCur DefDate DefDbl DefDec DefInt DefLng DefObj DefSng DefStr DefVar Dim Do Each Else ElseIf Empty End Enum Eqv Erase Error Error Event Exit Explicit Filter For Format$ FormatCurrency FormatDateTime FormatNumber FormatPercent FreeFile Friend Function Get Get GetAutoServerSettings GoSub GoTo IIf IMEStatus If Imp Implements In In InStrRev Input Is Join LBound LSet Left$ Let Let Lib Like Line LoadPicture LoadResData LoadResPicture LoadResString Lock Loop Math Mid$ MidB Mod MonthName Name New Next Not Nothing Null On Open Option Optional Or ParamArray Partition Preserve Print Private Property Public Put RSet RaiseEvent ReDim Rem Replace Resume Return Right$ Round SavePicture Seek Select Set Set Spc Split Static Step Stop Str$ StrReverse String String$ Sub Tab Then To Trim$ Type UBound Unlock Until VB_Creatable VB_Exposed VB_GlobalNameSpace VB_MemberFl ags VB_Name VB_PredeclaredId VB_UserMemId VB_VarHelpID WeekdayName Wend While With WithEvents Write Xor
+KeywordsAlt= 
+Operators= 

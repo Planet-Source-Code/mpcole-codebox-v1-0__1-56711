@@ -1,0 +1,18 @@
+[Options]
+ProperCase=0
+KeywordsBold=1
+CommentChar=//
+CommentStart=/*
+CommentEnd=*/
+
+[Colors]
+Comments=32768
+Strings=8388736
+Operators=255
+Keywords=16711680
+KeywordsAlt=16711680
+
+[Syntax]
+Keywords=Const Else ElseIf End If echo Access AddressOf Alias And As Attribute Base Binary Boolean ByRef Byte ByVal Call CallByName Case CBool CByte CCur CDate CDbl CDec CInt CLng Close Compare Comparison Const CSng CStr Currency CVar CVErr Date Decimal Declare DefBool DefByte DefCur DefDate DefDbl DefDec DefInt DefLng DefObj DefSng DefStr DefVar Dim Do Double Each Else ElseIf Empty End Enum Eqv Erase Error Error Event Exit Explicit Filter False For Format$ FormatCurrency FormatDateTime FormatNumber FormatPercent FreeFile Friend Function Get Get GetAutoServerSettings Global GoSub GoTo If IIf IMEStatus Imp Implements In In Input InStrRev Integer Is Join LBound Left$ Let Let Lib Like Line LoadPicture LoadResData LoadResPicture LoadResString Lock Long Loop LSet Math Mid$ MidB Mod MonthName Name New Next Not Nothing Null Object On Open Option Optional Or Output ParamArray Partition Preserve Print Private Property Public Put RaiseEvent Random Read ReDim Replace Resume Return Right$ Round RSet SavePicture Seek Select Set Set Single Spc Split Static Step Stop Str$ String String$ StrReverse Sub Tab Then To Trim$ True Type UBound Unlock Until Variant WeekdayName Wend While With WithEvents Write Xor   [Keywords]  abs accept alarm bind binmode bless caller chdir chmod chomp chop chown chr chroot close closedir connect crypt dbmclose dbmopen defined delete die dump each endgrent endhostent endnetent endprotoent endpwent endservent eof eval exec exists exit fcntl fileno flock fork formline getc getgrent getgrgid getgrnam gethostbyaddr gethostbyname gethostent getlogin getnetbyaddr getnetbyname getnetent getpeername getpgrp getppid getpriority getprotobyname getprotobynumber getprotoent getpwent getpwnam getpwuid getservbyname getservbyport getservent getsockname getsockopt glob gmtime goto grep hex import index ioctl join keys kill last lc lcfirst length link listen local localtime lstat map mkdir msgctl msgget msgrcv msgsnd my next no oct open opendir ord pack pipe pop pos print push qq quotemeta qw qx read readdir readlink recv redo ref rename reset return reverse rewinddir rindex rmdir scalar seek seekdir select semctl semget semop send setgrent sethostent setnetent setpgrp setpriority setprotoent setpwent setservent setsockopt shift shmctl shmget shmread shmwrite $! $" $# $$ $% $& $' $( $) $ $+ $, $- $. $/ $1 $2 $3 $4 $5 $6 $7 $8 $9 $; $< $= $> $? $@ $ARGV $O $[ $\ $] $^ $^D $^F $^I $^P $^T $^W $^X $_ $` $| $~ %ENV %INC %SIG @ARGV @INC @_ integer less package require sigtrap strict subs shutdown sleep socket socketpair sort splice split sprintf stat study substr symlink syscall sysread system syswrite tell telldir tie times tr truncate uc ucfirst umask undef unless unlink unpack unshift untie use utime values vec wait waitpid wantarray warn write FALSE TRUE atan2 cmp cos eq exp gt int log lt ne rand sin sqrt srand sub time continue do else elsif for foreach goto if last next redo return until while Dx Col Nocurs Yescurs Curloc Curup Curdown Curleft Curright Stop Dos Put Pick Hold Cls Light Title All Code Emptyarray Bin
+KeywordsAlt= 
+Operators= + - / * = ! < > ; $ ? 

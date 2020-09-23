@@ -1,0 +1,15 @@
+[Options]
+ProperCase=0
+CommentChar=//
+
+[Colors]
+Comments=32768
+Strings=8388736
+Operators=255
+Keywords=16711680
+KeywordsAlt=16711680
+
+[Syntax]
+Keywords=abstract boolean break byte case catch char class const continue default delete do double else extends false final finally float for function goto if implements import in instanceof int interface long native new null package private protected public return short static super switch synchronized this throw throws transient true try typeof var void while withAnchoranchors Applet applets Area Array Button Checkbox Date document FileUpload Form forms Frame frames Hidden history Image images Link links Area location Math MimeType mimeTypes navigator options Password Plugin plugins Radio Reset Select String Submit Text Textarea window
+KeywordsAlt= 
+Operators= ; + - * / < > & |

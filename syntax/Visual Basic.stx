@@ -1,0 +1,15 @@
+[Options]
+ProperCase=3
+KeywordsBold=0
+CommentChar='
+
+[Colors]
+Comments=32768
+Strings=0
+Operators=0
+KeywordsAlt=8388608
+Keywords=8388608
+
+[Syntax]
+Keywords=Option True To On Until While Select With Resume Next Sub Property Set Type Public Private Const Else ElseIf End If Then Access AddressOf Alias And As Attribute Base Binary Boolean ByRef Byte ByVal Call CallByName Case CBool CByte CCur CDate CDbl CDec CInt CLng Close Compare Comparison Const CSng CStr Currency CVar CVErr Date Decimal Declare DefBool DefByte DefCur DefDate DefDbl DefDec DefInt DefLng DefObj DefSng DefStr DefVar Dim Do Double Each Else ElseIf Empty End Enum Eqv Erase Error Error Event Exit Explicit Filter False For Format$ FormatCurrency FormatDateTime FormatNumber FormatPercent FreeFile Friend Function Get Get GetAutoServerSettings Global GoSub GoTo If IIf IMEStatus Imp Implements In In Input InStrRev Integer Is Join LBound Left$ Let Let Lib Like Line LoadPicture LoadResData LoadResPicture LoadResString Lock String Long Loop LSet Math Mid$ MidB
+Operators= 
